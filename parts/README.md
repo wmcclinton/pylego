@@ -1,4 +1,6 @@
 # Parts List (Total < $350)
+
+Important:
 - [L298N Motor Driver - ~$10](https://www.amazon.com/dp/B07BK1QL5T?ref=ppx_pop_mob_ap_share)
 - [Power-Functions Extension Wire - ~$20](https://www.amazon.com/dp/B0CV11Z32F?ref=ppx_pop_mob_ap_share)
 - [Power-Function Technic Parts - ~$50](https://www.amazon.com/dp/B0C39ZGJLQ?ref=ppx_pop_mob_ap_share)
